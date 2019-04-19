@@ -1,11 +1,11 @@
-GrLivArea,SalePrice
-9.2,2074668
-9.2,1423524
-9.2,987971
-9,2040432
-8.9,586216
-8.9,1075220
-8.9,1476841
-8.9,1622425
-8.8,615766
-8.8,1660047
+MovieRating,NumberofRatings,Movie
+9.2,2074668, Shawshank Redemption
+9.2,1423524, Godfather
+9.2,987971, Godfather 2
+9,2040432, Dark Knight
+8.9,586216,12 Angry Men
+8.9,1075220, Schindler's List
+8.9,1476841, Return of the King
+8.9,1622425, Pulp Fiction
+8.8,615766,The Good the Bad and the Ugly
+8.8,1660047, Fight Club
