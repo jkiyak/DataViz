@@ -1,11 +1,11 @@
-MovieRating,NumberofRatings,Movie,Industry
-9.2,2074668, Shawshank Redemption, Hollywood
-9.2,1423524, Godfather, Hollywood
-9.2,987971, Godfather 2, Hollywood
-9,2040432, Dark Knight, Hollywood
-8.9,586216,12 Angry Men, Hollywood
-8.9,1075220, Schindler's List, Hollywood
-8.9,1476841, Return of the King, Hollywood
-8.9,1622425, Pulp Fiction, Hollywood
-8.8,615766,The Good the Bad and the Ugly, Hollywood
-8.8,1660047, Fight Club, Hollywood
+MovieRating,NumberofRatings,Movie,Industry, Year
+9.2,2074668, Shawshank Redemption, Hollywood, 1994
+9.2,1423524, Godfather, Hollywood, 1972
+9.2,987971, Godfather 2, Hollywood, 1974
+9,2040432, Dark Knight, Hollywood, 2008
+8.9,586216,12 Angry Men, Hollywood, 1957
+8.9,1075220, Schindler's List, Hollywood, 1993 
+8.9,1476841, Return of the King, Hollywood, 2003
+8.9,1622425, Pulp Fiction, Hollywood, 1994,
+8.8,615766,The Good the Bad and the Ugly, Hollywood, 1966
+8.8,1660047, Fight Club, Hollywood, 1999
