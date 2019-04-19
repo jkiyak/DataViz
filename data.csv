@@ -1,11 +1,11 @@
-MovieRating,NumberofRatings,Movie
-9.2,2074668, Shawshank Redemption
-9.2,1423524, Godfather
-9.2,987971, Godfather 2
-9,2040432, Dark Knight
-8.9,586216,12 Angry Men
-8.9,1075220, Schindler's List
-8.9,1476841, Return of the King
-8.9,1622425, Pulp Fiction
-8.8,615766,The Good the Bad and the Ugly
-8.8,1660047, Fight Club
+MovieRating,NumberofRatings,Movie,Industry
+9.2,2074668, Shawshank Redemption, Hollywood
+9.2,1423524, Godfather, Hollywood
+9.2,987971, Godfather 2, Hollywood
+9,2040432, Dark Knight, Hollywood
+8.9,586216,12 Angry Men, Hollywood
+8.9,1075220, Schindler's List, Hollywood
+8.9,1476841, Return of the King, Hollywood
+8.9,1622425, Pulp Fiction, Hollywood
+8.8,615766,The Good the Bad and the Ugly, Hollywood
+8.8,1660047, Fight Club, Hollywood
