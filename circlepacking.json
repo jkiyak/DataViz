@@ -1,0 +1,314 @@
+  "name": "Industry",
+  "children": [
+    {
+      "name": "Hollywood",
+      "children": [
+        {
+          "name": "Action",
+          "children": [
+		  {
+		  "name": "Aquaman",
+		  "value": "335.06"
+		  },
+		  {
+		  "name": "Avengers",
+		  "value": "678.82"
+		  },
+		  {
+		  "name": "Spiderman- into the spider verse",
+		  "value": "190.24"
+		  },
+		  {
+		  "name": "Thor- Ragnarok",
+		  "value": "315.06"
+		  },
+		  {
+		  "name": "Deadpool 2",
+		  "value": "324.59"
+		  }
+		  ]
+        },
+        {
+          "name": "Drama",
+          "children": [
+		  {
+		  "name": "The Mule",
+		  "value": "103.8"
+		  },
+		  {
+		  "name": "The Professor",
+		  "value": "248.76"
+		  },
+		  {
+		  "name": "The Dark Knight",
+		  "value": "534.86"
+		  },
+		  {
+		  "name": "Interstellar",
+		  "value": "188.02"
+		  },
+		  {
+		  "name": "Wolf of Wall Street",
+		  "value": "116.9"
+		  },
+		  ]
+        },
+        {
+          "name": "Comedy",
+          "children": [
+		  {
+		  "name": "Green Book",
+		  "value": "84.94"
+		  },
+		  {
+		  "name": "Guardians of the Galaxy",
+		  "value": "333.18"
+		  },
+		  {
+		  "name": "Crazy Rich Asians",
+		  "value": "174.53"
+		  },
+		  {
+		  "name": "Hangover",
+		  "value": "277.32"
+		  },
+		  {
+		  "name": "La La Land",
+		  "value": "151.10"
+		  },
+		  ]
+        },
+		{
+          "name": "Family",
+          "children": [
+		  {
+		  "name": "Mary Poppins Returns",
+		  "value": "171.96"
+		  },
+		  {
+		  "name": "Wonder",
+		  "value": "132.42"
+		  },
+		  {
+		  "name": "Jungle Book",
+		  "value": "364"
+		  },
+		  {
+		  "name": "Maleficent",
+		  "value": "241.41"
+		  },
+		  {
+		  "name": "The Grinch",
+		  "value": "270.62"
+		  },
+		  ]
+        },
+		{
+          "name": "Romance",
+          "children": [
+		  {
+		  "name": "Star is Born",
+		  "value": "215.29"
+		  },
+		  {
+		  "name": "Crazy Stupid Love",
+		  "value": "84.35"
+		  },
+		  {
+		  "name": "The Handmaiden",
+		  "value": "2.01"
+		  },
+		  {
+		  "name": "love and other Drugs",
+		  "value": "32.37"
+		  },
+		  {
+		  "name": "Fault in our Stars",
+		  "value": "124.87"
+		  },
+		  ]
+        },
+		{
+          "name": "Thriller",
+          "children": [
+		  {
+		  "name": "Get Out",
+		  "value": "176.04"
+		  },
+		  {
+		  "name": "Room",
+		  "value": "14.68"
+		  },
+		  {
+		  "name": "Inception",
+		  "value": "292.58"
+		  },
+		  {
+		  "name": "Blade Runner 2049",
+		  "value": "92.05"
+		  },
+		  {
+		  "name": "Gone Girl",
+		  "value": "167.77"
+		  },
+		  ]
+        }
+      ]
+    },
+ {
+      "name": "Bollywood",
+      "children": [
+        {
+          "name": "Action",
+          "children": [
+		  {
+		  "name": "KGF Chapter 1",
+		  "value": "103.8"
+		  },
+		  {
+		  "name": "Holiday",
+		  "value": "103.8"
+		  },
+		  {
+		  "name": "Ghajini",
+		  "value": "38.3"
+		  },
+		  {
+		  "name": "The Mule",
+		  "value": "103.8"
+		  },
+		  {
+		  "name": "The Mule",
+		  "value": "103.8"
+		  },
+		  ]
+        },
+        {
+          "name": "Drama",
+          "children": [
+		  {
+		  "name": "Karwaan",
+		  "value": ".182"
+		  },
+		  {
+		  "name": "Bharat Ane Nenu",
+		  "value": "3.55"
+		  },
+		  {
+		  "name": "Secret Superstar",
+		  "value": "154"
+		  },
+		  {
+		  "name": "Dangal",
+		  "value": "12.4"
+		  },
+		  {
+		  "name": "Airlift",
+		  "value": "28"
+		  },
+		  ]
+        },
+        {
+          "name": "Comedy",
+          "children": [
+		  {
+		  "name": "3 Idiots",
+		  "value": "6.53"
+		  },
+		  {
+		  "name": "PK",
+		  "value": "10.6"
+		  },
+		  {
+		  "name": "BangLore Days",
+		  "value": ".1"
+		  },
+		  {
+		  "name": "Queen",
+		  "value": "1.429"
+		  },
+		  {
+		  "name": "Zindagi Na Milegi Dobara",
+		  "value": "3.076"
+		  },
+		  ]
+        },
+		{
+          "name": "Family",
+          "children": [
+		  {
+		  "name": "Chillar Party",
+		  "value": ".006149"
+		  },
+		  {
+		  "name": "Taare Zameen Par",
+		  "value": "1.223"
+		  },
+		  {
+		  "name": "English Vinglish",
+		  "value": "1.67"
+		  },
+		  {
+		  "name": "Ustad Hotel",
+		  "value": "1.3"
+		  },
+		  {
+		  "name": "Shaadi Mein Zaroor Aana",
+		  "value": "1.4370"
+		  },
+		  ]
+        },
+		{
+          "name": "Romance",
+          "children": [
+		  {
+		  "name": "Geetha Govindam",
+		  "value": "1.300"
+		  },
+		  {
+		  "name": "Premam",
+		  "value": ".178"
+		  },
+		  {
+		  "name": "Barfi",
+		  "value": "4.49"
+		  },
+		  {
+		  "name": "Kapoor and Sons",
+		  "value": "15.39"
+		  },
+		  {
+		  "name": "Arjun reddy",
+		  "value": ".1455"
+		  },
+		  ]
+        },
+		{
+          "name": "Thriller",
+          "children": [
+		  {
+		  "name": "Vikram Vedha",
+		  "value": ".546"
+		  },
+		  {
+		  "name": "Pink",
+		  "value": ".180"
+		  },
+		  {
+		  "name": "Ratsasan",
+		  "value": "2.88"
+		  },
+		  {
+		  "name": "Drishyam",
+		  "value": "9.4"
+		  },
+		  {
+		  "name": "Charlie",
+		  "value": ".046"
+		  },
+		  ]
+        }
+      ]
+    },
+  ]
+}
