@@ -1,13 +1,13 @@
 id, value
-industry
-industry.hollywood
-industry.hollywood.genre
-industry.hollywood.genre.action
-industry.hollywood.genre.drama
-industry.hollywood.genre.comedy
-industry.hollywood.genre.family
-industry.hollywood.genre.romance
-industry.hollywood.genre.thriller
+industry,
+industry.hollywood,
+industry.hollywood.genre,
+industry.hollywood.genre.action,
+industry.hollywood.genre.drama,
+industry.hollywood.genre.comedy,
+industry.hollywood.genre.family,
+industry.hollywood.genre.romance,
+industry.hollywood.genre.thriller,
 industry.hollywood.genre.action.aquaman, 335
 industry.hollywood.genre.action.infinitywar, 678
 industry.hollywood.genre.action.spiderverse,190
@@ -29,13 +29,14 @@ industry.hollywood.genre.family.junglebook,364
 industry.hollywood.genre.family.maleficent,241
 industry.hollywood.genre.family.grinch,270
 
-
-industry.bollywood.genre.action
-industry.bollywood.genre.drama
-industry.bollywood.genre.comedy
-industry.bollywood.genre.family
-industry.bollywood.genre.romance
-industry.bollywood.genre.thriller
+industry.bollywood,
+industry.bollywood.genre,
+industry.bollywood.genre.action,
+industry.bollywood.genre.drama,
+industry.bollywood.genre.comedy,
+industry.bollywood.genre.family,
+industry.bollywood.genre.romance,
+industry.bollywood.genre.thriller,
 industry.bollywood.genre.action.kgf,100
 industry.bollywood.genre.action.kgf,100
 industry.bollywood.genre.action.kgf,100
