@@ -1,13 +1,17 @@
 id,parentId,size
-Industry,
-Hollywood,Industry
-Bollywood,Industry
-Genre, Hollywood
-Genre, Bollywood
-Action, Genre
-Drama, Genre
-Comedy, Genre
-Family, Genre
-Romance, Genre
-Thriller, Genre
-Aquaman, Action, 355
+industry,
+hollywood,industry
+bollywood,industry
+genre,hollywood
+genre,bollywood
+action, genre
+drama, genre
+comedy, genre
+family, genre
+romance, genre
+thriller, genre
+aquaman, action, 355
+
+
+
+
