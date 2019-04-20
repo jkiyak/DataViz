@@ -13,6 +13,22 @@ industry.hollywood.genre.action.infinitywar, 678
 industry.hollywood.genre.action.spiderverse,190
 industry.hollywood.genre.action.ragnarok,315
 industry.hollywood.genre.action.deadpool2,325
+industry.hollywood.genre.drama.themule,103
+industry.hollywood.genre.drama.theprofessor,248
+industry.hollywood.genre.drama.thedarkknight,534
+industry.hollywood.genre.drama.interstellar,188
+industry.hollywood.genre.drama.wallstreet,116
+industry.hollywood.genre.comedy.greenbook,85
+industry.hollywood.genre.comedy.guardians,333
+industry.hollywood.genre.comedy.asians,175
+industry.hollywood.genre.comedy.hangover,277
+industry.hollywood.genre.comedy.lalaland,151
+industry.hollywood.genre.family.marypoppins,172
+industry.hollywood.genre.family.wonder,132
+industry.hollywood.genre.family.junglebook,364
+industry.hollywood.genre.family.maleficent,241
+industry.hollywood.genre.family.grinch,270
+
 
 industry.bollywood.genre.action
 industry.bollywood.genre.drama
@@ -20,6 +36,11 @@ industry.bollywood.genre.comedy
 industry.bollywood.genre.family
 industry.bollywood.genre.romance
 industry.bollywood.genre.thriller
+industry.bollywood.genre.action.kgf,100
+industry.bollywood.genre.action.kgf,100
+industry.bollywood.genre.action.kgf,100
+industry.bollywood.genre.action.kgf,100
+industry.bollywood.genre.action.kgf,100
 
 
 
