@@ -1,4 +1,4 @@
-MovieRating,NumberofRatings,Movie,Industry, Year, Genre
+MovieRating,NumberofRatings,Movie,Industry,Year, Genre
 9.2,2074668, Shawshank Redemption, Hollywood, 1994, Drama
 9.2,1423524, Godfather, Hollywood, 1972, Drama
 9.2,987971, Godfather 2, Hollywood, 1974, Drama
