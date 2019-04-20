@@ -1,21 +1,26 @@
-id,parentId,size
-industry,
-hollywood,industry
-bollywood,industry
-genre,hollywood
-genre,bollywood
-action, genre
-drama, genre
-comedy, genre
-family, genre
-romance, genre
-thriller, genre
-aquaman, action, 355
-themule, drama, 103
-greenbook, comedy, 85
-marypoppins,family,172
-astarisborn,romance,215
-getout,thriller,176
+id, value
+industry
+industry.hollywood
+industry.hollywood.genre
+industry.hollywood.genre.action
+industry.hollywood.genre.drama
+industry.hollywood.genre.comedy
+industry.hollywood.genre.family
+industry.hollywood.genre.romance
+industry.hollywood.genre.thriller
+industry.hollywood.genre.action.aquaman, 335
+industry.hollywood.genre.action.infinitywar, 678
+industry.hollywood.genre.action.spiderverse,190
+industry.hollywood.genre.action.ragnarok,315
+industry.hollywood.genre.action.deadpool2,325
+
+industry.bollywood.genre.action
+industry.bollywood.genre.drama
+industry.bollywood.genre.comedy
+industry.bollywood.genre.family
+industry.bollywood.genre.romance
+industry.bollywood.genre.thriller
+
 
 
 
